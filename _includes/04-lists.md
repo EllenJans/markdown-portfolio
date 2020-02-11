@@ -1,0 +1,4 @@
+- chocolate
+- camping
+- coding
+- :deciduous_tree:
