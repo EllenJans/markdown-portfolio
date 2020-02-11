@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- chocolate
+- camping
+- coding
+- :deciduous_tree:
