@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* *strong* in **organizing**, **analytical thinking** and **teamwork**
+* *knowledge* of **html**, **css**, **javascript**, **SQL** and **java**
